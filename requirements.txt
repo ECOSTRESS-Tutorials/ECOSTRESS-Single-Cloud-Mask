@@ -1,1 +1,4 @@
-
+hvplot
+numpy
+rasterio
+rioxarray
