@@ -31,20 +31,20 @@ these files, see the **Downloading from AppEEARS** tutorial.
     Folder**. Name your new folder so that you know it is the main
     project folder.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image1.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image1.png"
 style="width:3.45064in;height:2.13306in"
 alt="Graphical user interface, application Description automatically generated" />
 
 3.  **Move** the **downloaded code** file into the project folder.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image2.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image2.png"
 style="width:3.78438in;height:2.38141in"
 alt="Graphical user interface, application, Word Description automatically generated" />
 
 4.  **Move** the folder with your **downloaded ECOSTRESS data** into the
     project folder.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image3.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image3.png"
 style="width:3.75064in;height:2.3718in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -53,7 +53,7 @@ alt="Graphical user interface, application Description automatically generated" 
     folder, **right click**, and select **New Folder**. Then name the
     folder so that you know it is for the **outputs**.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image4.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image4.png"
 style="width:3.87308in;height:2.39254in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -62,9 +62,9 @@ alt="Graphical user interface, application Description automatically generated" 
     downloaded ECOSTRESS files, the Single_Cloud_Mask code, and the
     output subfolder.
 
-| <img src="10-Applying_a_Single_Cloud_Mask_images/media/image5.png"
+| <img src="Applying_a_Single_Cloud_Mask_images/media/image5.png"
 style="width:1.66667in;height:1.89461in"
-alt="Graphical user interface, text, application Description automatically generated" /> | <img src="10-Applying_a_Single_Cloud_Mask_images/media/image6.png"
+alt="Graphical user interface, text, application Description automatically generated" /> | <img src="Applying_a_Single_Cloud_Mask_images/media/image6.png"
 style="width:2.125in;height:1.89712in"
 alt="Graphical user interface, text, application Description automatically generated" /> |
 |----|----|
@@ -72,7 +72,7 @@ alt="Graphical user interface, text, application Description automatically gener
 1.  In the **EXPLORER** tab, find the **Single_Cloud_Mask** code and
     click on it to open it.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image7.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image7.png"
 style="width:4.88681in;height:2.7953in"
 alt="Text Description automatically generated" />
 
@@ -85,7 +85,7 @@ because it will guide you to which parts you may want to change!
 
 **Examples** of comments (**green text following the \#):**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image80.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image80.png"
 style="width:5.0891in;height:1.14621in"
 alt="Text Description automatically generated" />
 
@@ -94,7 +94,7 @@ alt="Text Description automatically generated" />
     Change the text that says **"Replace_this_text_with_file_path"** to
     the path to the ECOSTRESS LST image that you want to cloud mask.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image9.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image9.png"
 style="width:5.24295in;height:1.16902in"
 alt="Text Description automatically generated" />
 
@@ -104,13 +104,13 @@ alt="Text Description automatically generated" />
     Path**. Now you can paste the path into your code. Make sure it is
     still **wrapped in quotes** and has **r** outside the first quote.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image10.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image10.png"
 style="width:2.30449in;height:3.51822in"
 alt="Text Description automatically generated" />
 
 **Example:**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image11.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image11.png"
 style="width:6.5in;height:0.47014in" />
 
 3.  Now, find the section of the code titled **Load and View the Cloud
@@ -123,13 +123,13 @@ style="width:6.5in;height:0.47014in" />
     **doy** in the file names. Make sure it is still **wrapped in
     quotes** and has **r** outside the first quote.
 
-> <img src="10-Applying_a_Single_Cloud_Mask_images/media/image12.png"
+> <img src="Applying_a_Single_Cloud_Mask_images/media/image12.png"
 > style="width:6.05064in;height:1.25085in"
 > alt="Graphical user interface, text Description automatically generated" />
 >
 > **Example:**
 >
-> <img src="10-Applying_a_Single_Cloud_Mask_images/media/image13.png"
+> <img src="Applying_a_Single_Cloud_Mask_images/media/image13.png"
 > style="width:6.5in;height:0.36528in" />
 
 4.  Finally, scroll down to the section titled **Save the Masked
@@ -139,13 +139,13 @@ style="width:6.5in;height:0.47014in" />
     it is still **wrapped in quotes** and has **r** outside the first
     quote.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image14.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image14.png"
 style="width:6.2837in;height:1.23526in"
 alt="Text Description automatically generated" />
 
 **Example:**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image15.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image15.png"
 style="width:6.5in;height:0.41528in" />
 
 5.  Now the code should be set up to be run with your desired image.
@@ -154,7 +154,7 @@ style="width:6.5in;height:0.41528in" />
     we want to run. Click into the box with the library importing code
     and press **Shift+Return** to run it.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image16.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image16.png"
 style="width:4.66602in;height:1.3674in"
 alt="Text Description automatically generated" />
 
@@ -162,14 +162,14 @@ alt="Text Description automatically generated" />
     **select a kernel** to run your code with. Click on **Python
     Environments …**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image17.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image17.png"
 style="width:4.68141in;height:0.89927in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 7.  Select the **ECOSTRESS** environment that you created, or another
     one if you have a different one you want to use.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image18.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image18.png"
 style="width:4.84295in;height:1.47772in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -180,7 +180,7 @@ alt="Graphical user interface, text, application, email Description automaticall
     counting up** in the bottom left of the cell. You will know it is
     done when a **green check mark** appears.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image19.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image19.png"
 style="width:3.21183in;height:1.2891in"
 alt="Text Description automatically generated" />
 
@@ -192,7 +192,7 @@ alt="Text Description automatically generated" />
         generate a map showing the surface temperature of the LST file
         you uploaded. **Example:**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image20.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image20.png"
 style="width:4.23919in;height:2.91218in" />
 
 2.  The **Load and View the Cloud Mask** section will map the binary
@@ -200,7 +200,7 @@ style="width:4.23919in;height:2.91218in" />
     good to be kept, and the **red** shows areas that **should be
     removed** due to possible cloud cover. **Example:**
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image21.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image21.png"
 style="width:4.48141in;height:3.0757in"
 alt="Map Description automatically generated" />
 
@@ -210,7 +210,7 @@ alt="Map Description automatically generated" />
     saved to your output folder when you run the final **Save the Masked
     Image** section of the code. **Example:**
 
-> <img src="10-Applying_a_Single_Cloud_Mask_images/media/image22.png"
+> <img src="Applying_a_Single_Cloud_Mask_images/media/image22.png"
 > style="width:4.43393in;height:3.04454in"
 > alt="Map Description automatically generated" />
 
@@ -219,7 +219,7 @@ alt="Map Description automatically generated" />
     outputs folder. You can check to make sure that a file is present in
     that folder so that you know your code ran correctly.
 
-<img src="10-Applying_a_Single_Cloud_Mask_images/media/image23.png"
+<img src="Applying_a_Single_Cloud_Mask_images/media/image23.png"
 style="width:5.40661in;height:1.34068in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
